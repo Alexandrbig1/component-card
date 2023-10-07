@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Alexandrbig1.github.io/component-card/static/css/main.967c7dca.css",
-    "main.js": "/Alexandrbig1.github.io/component-card/static/js/main.c1eb7fdd.js",
-    "index.html": "/Alexandrbig1.github.io/component-card/index.html",
-    "main.967c7dca.css.map": "/Alexandrbig1.github.io/component-card/static/css/main.967c7dca.css.map",
-    "main.c1eb7fdd.js.map": "/Alexandrbig1.github.io/component-card/static/js/main.c1eb7fdd.js.map"
+    "main.css": "/component-card/static/css/main.967c7dca.css",
+    "main.js": "/component-card/static/js/main.c1eb7fdd.js",
+    "index.html": "/component-card/index.html",
+    "main.967c7dca.css.map": "/component-card/static/css/main.967c7dca.css.map",
+    "main.c1eb7fdd.js.map": "/component-card/static/js/main.c1eb7fdd.js.map"
   },
   "entrypoints": [
     "static/css/main.967c7dca.css",
