@@ -3,7 +3,7 @@
 
 ## Project Specifications:
 
-React component card for profile with pictures, name, intro and skills. 
+React component planning card with steps by states. 
 
 ### Practicing while studying on [Udemy learning courses](https://www.udemy.com/) <img style="margin: 10px" src="https://findlogovector.com/wp-content/uploads/2022/04/udemy-logo-vector-2022.png" alt="HTML5" height="30" />
 
